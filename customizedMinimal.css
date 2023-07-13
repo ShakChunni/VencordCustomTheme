@@ -51,5 +51,5 @@
 	/* overlay background on messages when hovered over */
 	--message-hover-modifier: hsl(220, 0%, 0%, 0.1);
 	/* radius of round corners */
-	--roundness: 16px;
+	/*--roundness: 16px;*/
 }
