@@ -1,5 +1,5 @@
 /**
- * @name customizedFrostedGlass
+ * @name customizedfrostedglass.theme
  * @author Gibbu#1211
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
@@ -30,11 +30,11 @@
   --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
   --home-button-size: cover;
   --home-button-position: center;
-  --serverlist-brightness: 0.8;
-  --left-brightness: 0.8;
-  --middle-brightness: 0.6;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.7;
+  --middle-brightness: 0.7;
   --right-brightness: 0;
-  --overlay-brightness: 0.75;
+  --overlay-brightness: 0.7;
   --gradient-primary: 103,58,183;
   --gradient-secondary: 63,81,181;
   --link-colour: #00b0f4;
